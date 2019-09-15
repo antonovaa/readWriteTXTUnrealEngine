@@ -1,0 +1,10 @@
+/.vs
+Binaries
+Build
+Intermediate
+Saved
+DerivedDataCache
+*.sln
+*.bat
+*.dll
+*.pdb
